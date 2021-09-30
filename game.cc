@@ -29,4 +29,5 @@ void Game::scoreUp(Paddle * player) {
     ball->reset();
     //player1->reset();
     //player2->reset();
+    
 }
