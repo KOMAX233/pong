@@ -20,6 +20,7 @@ class Game {
         Game(int w, int h);
         ~Game();
         void scoreUp(Paddle * player);
+        void draw();
 };
 
 #endif

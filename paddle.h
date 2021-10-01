@@ -8,7 +8,7 @@ class Paddle {
         int originalX, originalY;
     public:
         Paddle();
-        Paddle(int posX,int posY);
+        Paddle(int posX, int posY);
         inline void reset() {
             x = originalX;
             y = originalY;
